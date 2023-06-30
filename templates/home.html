@@ -1,0 +1,37 @@
+<html>
+    <body>
+        <div> class="login">
+            <h1>REACH COMPARATOR</h1>
+            <p> THIS IA A WEB APPLICATION WHICH PREDICT REACH OF USER ON SOCIAL MEDIA</p>
+            <form action = "{{ url_for('predict')}}"method="post>
+                <input type="text" name="id" placeholder="id" required="required" /><br>
+                <input type="text" name="time" placeholder="time" required="required" /><br>
+                <input type="text" name="impressions" placeholder="impressions" required="required" /><br>
+                <input type="text" name="engagements" placeholder="engagements" required="required" /><br>
+                <input type="text" name="engagement rate" placeholder="engagement rate" required="required" /><br>
+                <input type="text" name="retweets" placeholder="retweets" required="required" /><br>
+                <input type="text" name="replies" placeholder="replies" required="required" /><br>
+                <input type="text" name="likes" placeholder="likes" required="required" /><br>
+                <input type="text" name="user profile clicks" placeholder="user profile clicks" required="required" /><br>
+                <input type="text" name="url clicks" placeholder="url clicks" required="required" /><br>
+                <input type="text" name="hashtag clicks" placeholder="hastag clicks" required="required" /><br>
+                <input type="text" name="detail expands" placeholder="detail expands" required="required" /><br>
+                <input type="text" name="permalink clicks" placeholder="permalink clicks" required="required" /><br>
+                <input type="text" name="app opens" placeholder="app opens" required="required" /><br>
+                <input type="text" name="app installs" placeholder="app installs" required="required" /><br>
+                <input type="text" name="follows" placeholder="follows" required="required" /><br>
+                <input type="text" name="email tweet" placeholder="email tweet" required="required" /><br>
+                <input type="text" name="dial phone" placeholder="dial phone" required="required" /><br>
+                <input type="text" name="media views" placeholder="media views" required="required" /><br>
+                <input type="text" name="media engagements" placeholder="media engagements" required="required" /><br>
+
+                <button type="SUBMIT" class="btn btn-primary btn-block btn-large">Predict</button>
+            </form> 
+
+            <br>
+            <br>
+
+        </div>
+        {{prediction_text}}
+    </body>
+</html>
