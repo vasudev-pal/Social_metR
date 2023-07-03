@@ -1,9 +1,21 @@
 VIDEO DEMO URL 
+
+
 Team members {VIT BHOPAL Campus}
+
+
 Manav Shah 20BAI10282
+
+
 JAIVARDHAN SINGH 20BAI10360
+
+
 BASUDEV PAL 20BAI10364
+
+
 SHASHANK JAIPURKAR 20BAI10357
+
+
 https://drive.google.com/file/d/14kcqY5frW7V9K-xunGu3wHq4gNUBlbNy/view?usp=sharing
 # <p align="center">Social_metR</p>
   
