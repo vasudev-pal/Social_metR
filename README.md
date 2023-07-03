@@ -1,5 +1,7 @@
 VIDEO DEMO URL 
 
+https://drive.google.com/file/d/14kcqY5frW7V9K-xunGu3wHq4gNUBlbNy/view?usp=sharing
+
 
 Team members {VIT BHOPAL Campus}
 
@@ -14,9 +16,6 @@ BASUDEV PAL 20BAI10364
 
 
 SHASHANK JAIPURKAR 20BAI10357
-
-
-https://drive.google.com/file/d/14kcqY5frW7V9K-xunGu3wHq4gNUBlbNy/view?usp=sharing
 # <p align="center">Social_metR</p>
   
 Social metR predict reach of users on social media platforms
